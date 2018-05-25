@@ -1,7 +1,7 @@
 
 
 **Uitleg**
-Sinterklaas wil een webapplicatie tijdens het bezorgen van de Sinterklaaskado's gebruiken zodat de bezorglijst die de Bezorgpieten meenemen niet meer wegwaaien...  Sinterklaas heeft met Wegwijspiet, Hoofdpiet de volgende eisen opgesteld zie **eisen** . 
+Sinterklaas wil een webapplicatie gebruiken bij het bezorgen van de Sinterklaaskado's, zodat de bezorglijst die de Bezorgpieten meenemen niet meer wegwaaien, nat worden, of scheuren...  Sinterklaas heeft met Wegwijspiet, Hoofdpiet de volgende eisen opgesteld zie **eisen** . 
 Het is jouw taak om deze eisen om te zetten in een webapplicatie die gehost is via GitHub pages.   
 
 
@@ -53,6 +53,7 @@ Het is jouw taak om deze eisen om te zetten in een webapplicatie die gehost is v
 Sinterklaas@sinterklaas.es hoofdpiet@sinterklaas.es, wegwijspiet@sinterklaas.es 
  14. Een wachtwoord per gebruiker. 
  15. Bonuspunten voor een goede manier om het wachtwoord te beveiligen Onderbouw je keuzes.   
+ 16. Is javascript echt nodig of kan het ook met CSS...? 
  
 **CRUD-rechten** 																	
 
