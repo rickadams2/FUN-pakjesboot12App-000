@@ -1,7 +1,7 @@
 
 
 **Uitleg**
-Sinterklaas wil een webapplicatie tijdens het bezorgen van de Sinterklaas kado's gebruiken zodat de bezorglijst die de Bezorgpieten meenemen niet meer wegwaaien...  Sinterklaas heeft met Wegwijspiet, Hoofdpiet de volgende eisen opgesteld zie **eisen** . 
+Sinterklaas wil een webapplicatie tijdens het bezorgen van de Sinterklaaskado's gebruiken zodat de bezorglijst die de Bezorgpieten meenemen niet meer wegwaaien...  Sinterklaas heeft met Wegwijspiet, Hoofdpiet de volgende eisen opgesteld zie **eisen** . 
 Het is jouw taak om deze eisen om te zetten in een webapplicatie die gehost is via GitHub pages.   
 
 
