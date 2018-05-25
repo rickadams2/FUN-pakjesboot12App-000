@@ -1,4 +1,37 @@
-**Uitleg**
+
+#### Demo
+
+
+#### UML
+
+#### Installation 
+1. https://maven.apache.org/  
+2. Follow the recommended  Windows installation method if you want to save time :wink: 
+3.   Optimize  :heart:  the installation of Java and Maven via Choco.
+
+#### Choco  
+1. Go to  https://chocolatey.org/packages/maven/3.5.2.2
+2. Run the command with 
+
+    choco feature enable -n allowGlobalConfirmation
+
+4. Validate installation 
+	 java -version  
+	 mvn -version 
+
+
+#### Tech stack 
+1. Cargo | https://codehaus-cargo.github.io/cargo/Maven2 
+2. Java 
+3. Maven 
+
+### Setup
+1. NetBeans 
+https://chocolatey.org/packages/Cygwin/2.6.1
+
+
+
+	**Uitleg**
 Sinterklaas wil een webapplicatie op Pakjesavond gebruiken zodat de bezorglijst die de Bezorgpieten meenemen niet meer wegwaaien...  Sinterklaas heeft met Wegwijspiet en Hoofdpiet de volgende eisen opgesteld zie **Webapplicatie eisen** . 
 Het is jouw taak om deze eisen om te zetten in een webapplicatie die gehost is via GitHub pages.   
 
@@ -61,3 +94,5 @@ Jezelf en /of je ouders  | Create rechten
 
 
  
+
+
