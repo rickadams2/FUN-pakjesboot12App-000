@@ -51,7 +51,7 @@ Het is jouw taak om deze eisen om te zetten in een webapplicatie die gehost is v
  12. Bezorgtijd en bezorgdatum
  13. De app wordt gebruikt met verschillende rechten. Op basis van onderstaande naam en emailadressen:  
 Sinterklaas@sinterklaas.es hoofdpiet@sinterklaas.es, wegwijspiet@sinterklaas.es 
- 14. Een wachtwoord. 
+ 14. Een wachtwoord per gebruiker. 
  15. Bonuspunten voor een goede manier om het wachtwoord te beveiligen Onderbouw je keuzes.   
  
 **CRUD rechten** 																	
