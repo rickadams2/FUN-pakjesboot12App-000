@@ -47,7 +47,7 @@ Het is jouw taak om deze eisen om te zetten in een webapplicatie die gehost is v
   
  9. Verlanglijst met een limit van 10 kado's. 
  10. InSchoorSteenGestoptDoor
- 11. IsOnvoorzien (Denk; De schoorsteen is defect..., pepernoten zijn op..., te glad dak...  )
+ 11. IsOnvoorzien (Denk; De schoorsteen is defect..., de pepernoten zijn op..., te glad dak...  )
  12. Bezorgtijd en bezorgdatum
  13. De app wordt gebruikt met verschillende rechten. Op basis van onderstaande naam en emailadressen:  
 Sinterklaas@sinterklaas.es hoofdpiet@sinterklaas.es, wegwijspiet@sinterklaas.es 
