@@ -59,7 +59,8 @@ Sinterklaas@sinterklaas.es hoofdpiet@sinterklaas.es, wegwijspiet@sinterklaas.es
 
  Hoofdpiet / Sinterklaas  | administrator > CRUD rechten   |
  Bezorgpiet, Inpakpiet, Schoorsteenpiet | Create-Read-Update  rechten 
-Jezelf en je ouders  | Create-Read rechten.    
+Jezelf en je ouders  | Create-Read rechten.
+BezorgPietInOpleiding | Read rechten 
 	 
 
 
