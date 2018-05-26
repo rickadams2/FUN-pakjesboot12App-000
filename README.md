@@ -55,13 +55,16 @@ Sinterklaas@sinterklaas.es hoofdpiet@sinterklaas.es, wegwijspiet@sinterklaas.es
  15. Bonuspunten voor een goede manier om het wachtwoord te beveiligen Onderbouw je keuzes.   
  16. Is javascript echt nodig of kan het ook met CSS...? 
  
-**CRUD-rechten** 																	
+**CRUD-rechten** 	
 
- Hoofdpiet / Sinterklaas  | administrator > CRUD rechten   |
- Bezorgpiet, Inpakpiet, Schoorsteenpiet | Create-Read-Update  rechten 
-Jezelf en je ouders  | Create-Read rechten.
-BezorgPietInOpleiding | Read rechten 
-	 
+| Naam   |CRUD-rechten  |
+|--|--|
+| Sinterklaas, HoofdPiet | CRUD  |
+| Wegwijspiet, bezorgpieten  | C-R-U |
+| Jezelf, je ouders |  C-R |
+| Bezorgpiet in opleiding |  R |
+
+
 
 
  
