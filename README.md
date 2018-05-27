@@ -54,13 +54,14 @@ Sinterklaas@sinterklaas.es hoofdpiet@sinterklaas.es, wegwijspiet@sinterklaas.es
  14. Een wachtwoord per gebruiker. 
  15. Bonuspunten voor een goede manier om het wachtwoord te beveiligen Onderbouw je keuzes.   
  16. Is javascript echt nodig of kan het ook met CSS...? 
+ 17. Je kan alleen je eigen verlanglijst bekijken niet die van andere.
  
 **CRUD-rechten** 	
 
 | Naam   |CRUD-rechten  |
 |--|--|
 | Sinterklaas, HoofdPiet | CRUD  |
-| Wegwijspiet, bezorgpieten  | C-R-U |
+| Wegwijspiet, bezorgpieten  | R-U |
 | Jezelf, je ouders |  C-R |
 | Bezorgpiet in opleiding |  R |
 
