@@ -45,7 +45,7 @@ Het is jouw opdracht om deze eisen om te zetten in een werkende webapplicatie di
  7.1 Straat en huisnummer, postcode,  Achternaam, Kado nummer, IsOnvoorzien, InSchoorSteenGestoptDoor, datum en tijdstip
  8. Het kado moet gemakelijk terug te vinden in de webaplicatie. 
   
- 9. Verlanglijst met een limit van 10 kado's. De limiet kan je op twee manieren controleren. 
+ 9. Verlanglijst met een limit van 10 kado's. De limiet kan je op twee manieren controleren :wink: . 
  10. InSchoorSteenGestoptDoor
  11. Onvoorzien (Denk; De pepernoten zijn op :smile: ...,  De schoorsteen is defect/verstopt...,  te glad dak...  )
  12. Bezorgtijd en bezorgdatum is tussen 4 en voor 5 december 08:00 uur CET.  
@@ -59,11 +59,11 @@ Wegwijspiet@sinterklaas.es
 	 16.1 Goede manier om het wachtwoord te beveiligen 
 	 16.2 Toelichting van je keuze voor PHP, of Node.JS. 
 	 16.3 Correcte 3NF
-	 16.4 werkende DML en DDL
-	 16.5. Reponcive CSS zonder Bootstrap of ander framework gebruik.  
+	 16.4 Werkende DML en DDL bestanden als .sql
+	 16.5. Reponcive CSS ontwerp zonder gebruik van Bootstrap of ander framework.  
 	 16.6 Beschrijving van een of twee manieren om de ingevoerde data te valideren. 
  17. Is Javascript écht nodig voor .... of kan het ook met CSS3...?  
- 18. Jezelf en je ouders kunnen op basis van het emailadres van je ouders **alleen** je verlanglijst aanmaken/indienen/bekijken. Geldt ook voor je je broer/zus. Niet van andere kinderen.
+ 18. Jezelf en je ouders kunnen op basis van het emailadres van je ouders **alleen** je verlanglijst aanmaken/bekijken. Geldt ook voor broer/zus. Niet van andere kinderen. 
 
 **CRUD-rechten** 	
 
