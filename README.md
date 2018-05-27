@@ -63,7 +63,7 @@ Wegwijspiet@sinterklaas.es
 	 16.5. Reponcive CSS ontwerp zonder gebruik van Bootstrap of ander framework.  
 	 16.6 Beschrijving van een of twee manieren om de ingevoerde data te valideren. 
  17. Is Javascript écht nodig voor .... of kan het ook met CSS3...?  
- 18. Jezelf en je ouders kunnen op basis van het emailadres van je ouders **alleen** je verlanglijst aanmaken/bekijken. Geldt ook voor broer/zus. Niet van andere kinderen. 
+ 18. Jezelf en je ouders kunnen op basis van het emailadres van je ouders **alleen** je verlanglijst aanmaken/bekijken. Geld ook voor broer of zus. Niet van andere kinderen. Kan een aandachtspunt zijn bij Normaliseren en/database-design  
 
 **CRUD-rechten** 	
 
